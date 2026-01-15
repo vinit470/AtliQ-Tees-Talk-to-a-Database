@@ -5,6 +5,8 @@ This is an **end-to-end LLM-powered system** built using **Google Gemini + LangC
 The system understands user questions, converts them into **MySQL queries**, executes the queries on the database, and returns clear answers — without the user needing to know SQL.
 
 ---
+<img width="545" height="828" alt="image" src="https://github.com/user-attachments/assets/52bbe0e9-5afe-4f2f-a11e-5f20391ba80c" />
+
 
 ## 🚀 Use Case
 
